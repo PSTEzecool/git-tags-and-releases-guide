@@ -165,6 +165,3 @@ If you're shipping software without tagging, you're relying on memory — not en
 Consider starring the repository.
 
 ---
-
-
-Your move.
